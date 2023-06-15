@@ -73,7 +73,9 @@ Essas teclas foram escolhidas para fornecer a interatividade o mais intuitiva e 
 ### Funções utilizadas
 Foram escolhidas 7 funções para compor o trabalho, das quais quatro foram disponibilizadas pelo professor como exemplo e três foram escolhidas pela dupla. Segue o nome, a visualização 0 (apenas a linha da função) e a equação de cada função:
 
-|1 - laço|2 - rotatória|3 - cardióide|4 - losango|5 - ventilador|6 - gaspar|7 - chinchila|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|imagem|imagem|imagem|imagem|imagem|imagem|imagem|
-|x⁷ - y⁵ + x²y³ - (xy)²|x² + y² + xy - (xy)² * 0.5 - 0.25|(x² + y² - 4)³ - x² * y³|abs(x) + abs(y) - 2|x² - y² + y³ - x³ + (xy)² + (xy)³|x⁶ - y⁵ + x⁴ + y³ - x²|((x²/(y² + 2⁻¹⁰))senx)+ y² - x²seny - 1|
+| Visualização | 0 - Laço | 1 - Rotatória | 2 - Cardioide | 3 - Losango |4 - Ventilador | 5 - Gaspar | 6 - Chinchila | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| 0 | <img src="Relatorio-imagens/0_0.jpg" width="100"> | <img src="Relatorio-imagens/1_0.jpg" width="100"> | <img src="Relatorio-imagens/2_0.jpg" width="100"> | <img src="Relatorio-imagens/3_0.jpg" width="100"> | <img src="Relatorio-imagens/4_0.jpg" width="100"> | <img src="Relatorio-imagens/5_0.jpg" width="100"> | <img src="Relatorio-imagens/6_0.jpg" width="100"> | 
+| 1 | <img src="Relatorio-imagens/0_1.jpg" width="100"> | <img src="Relatorio-imagens/1_1.jpg" width="100"> | <img src="Relatorio-imagens/2_1.jpg" width="100"> | <img src="Relatorio-imagens/3_1.jpg" width="100"> | <img src="Relatorio-imagens/4_1.jpg" width="100"> | <img src="Relatorio-imagens/5_1.jpg" width="100"> | <img src="Relatorio-imagens/6_1.jpg" width="100"> | 
+| 2 | <img src="Relatorio-imagens/0_2.jpg" width="100"> | <img src="Relatorio-imagens/1_2.jpg" width="100"> | <img src="Relatorio-imagens/2_2.jpg" width="100"> | <img src="Relatorio-imagens/3_2.jpg" width="100"> | <img src="Relatorio-imagens/4_2.jpg" width="100"> | <img src="Relatorio-imagens/5_2.jpg" width="100"> | <img src="Relatorio-imagens/6_2.jpg" width="100"> | 
+| Equação | $x⁷ - y⁵ + x²y³ - (xy)²$ | $x² + y² + xy - \frac{(xy)²}{2} - 0.25$| $(x² + y² - 4)³ - x² \times y³$ | $\lvert x \rvert + \lvert y \rvert - 2$| $x² - y² + y³ - x³ + (xy)² + (xy)³$ | $x⁶ - y⁵ + x⁴ + y³ - x²$ | $\frac{x²}{y² + 2⁻¹⁰}  \times \sin(1.6 \times (-\lvert x \rvert - 0.8)) + y² - x²\times \sin(1.6(y - 0.8)) - 1$ |
